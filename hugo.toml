@@ -1,0 +1,16 @@
+baseURL = '/'
+languageCode = 'cs-cz'
+title = 'deník'
+theme = 'ananke'
+canonifyURLs = true
+DefaultContentLanguage = 'cs'
+SectionPagesMenu = 'main'
+Paginate = 22
+summaryLength = 20
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+[params]
+  favicon = 'favicon.ico'
+  MainSections = ['posts','recepty', 'vylety', 'denik']
+  body_classes = 'avenir bg-near-white'
