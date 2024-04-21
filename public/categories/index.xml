@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Česká Kuchyně</title>
+      <link>//localhost:1313/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Rusko</title>
       <link>//localhost:1313/categories/rusko/</link>
       <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
