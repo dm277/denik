@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>titul musím ještě vymyslet, on deník</title>
-    <link>/</link>
-    <description>Recent content in titul musím ještě vymyslet, on deník</description>
+    <title>titul je dočasný, on Deník ✏️</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in titul je dočasný, on Deník ✏️</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Fri, 15 Mar 2024 13:45:32 +0100</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 08:21:14 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problém s publikováním</title>
+      <link>//localhost:1313/posts/problem/</link>
+      <pubDate>Mon, 22 Apr 2024 08:21:14 +0200</pubDate>
+      <guid>//localhost:1313/posts/problem/</guid>
+      <description>Lokální stránky jsou ok, ale publikováno na github pages, https://dm277.github.io/denik/, je nějaký rozbitý.&#xA;Musím to spravit.&#xA;#blog</description>
+    </item>
     <item>
       <title>středa 15. března</title>
-      <link>/denik/2024-03-15/</link>
+      <link>//localhost:1313/denik/2024-03-15/</link>
       <pubDate>Fri, 15 Mar 2024 13:45:32 +0100</pubDate>
-      <guid>/denik/2024-03-15/</guid>
+      <guid>//localhost:1313/denik/2024-03-15/</guid>
       <description>Budeme s Hynkem zakládat druhou velkou hromadu hlíny. Musím udělat pár fotek a dám to do blogu.&#xA;Udělali jsme si k snídani párky a jdeme na to.</description>
     </item>
     <item>
       <title>Žumberk</title>
-      <link>/vylety/zumberk/</link>
+      <link>//localhost:1313/vylety/zumberk/</link>
       <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
-      <guid>/vylety/zumberk/</guid>
+      <guid>//localhost:1313/vylety/zumberk/</guid>
       <description>Začínám sem opatrně dávat naše výlety. Je to pořádná práce.&#xA;Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
     </item>
     <item>
       <title>Vídeňský guláš</title>
-      <link>/recepty/vidensky-gulas/</link>
+      <link>//localhost:1313/recepty/vidensky-gulas/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/recepty/vidensky-gulas/</guid>
+      <guid>//localhost:1313/recepty/vidensky-gulas/</guid>
       <description>Guláš považujeme za národní jídlo, ale je pouze důkazem naší historické příslušnosti k Rakousku-Uhersku. Dušené ragú z hovězího masa s paprikou vzniklo až v 17.</description>
     </item>
     <item>
       <title>Stroganoff</title>
-      <link>/recepty/stroga/</link>
+      <link>//localhost:1313/recepty/stroga/</link>
       <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
-      <guid>/recepty/stroga/</guid>
+      <guid>//localhost:1313/recepty/stroga/</guid>
       <description>olivový olej, 3 lžíce&#xA;3 cibule na polokolečka&#xA;větší balíček kuřecího masa na jemné nudličky&#xA;curry, kečup, dijonská hořčice</description>
     </item>
   </channel>

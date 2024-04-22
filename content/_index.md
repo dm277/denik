@@ -1,9 +1,9 @@
 ---
-title: titul musím ještě vymyslet,
+title: titul je dočasný,
 
-description: aby to bylo pěkný.
+description: a i obrázek dám lepší.
 featured_image: images/homepage.jpeg 
 ---
 Jak si postavit webový stránky, něco dobrýho uvařit, focení, wind... :)
 
-A výlety a mapky a tak.
+A výlety a mapky. A deník.

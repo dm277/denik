@@ -36,3 +36,5 @@ Urazili jsme asi deset kilometrů a nakonec jsem se zase vrátili k hrázi rybn�
 ![Image](/images/vylety/zumberk/konec.jpeg)
 
 Tak to byl dnešní výlet Žumberk, Klažary, Kondrač, Kamenná. Hezkej.
+
+#blog

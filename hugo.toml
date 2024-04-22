@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'cs-cz'
-title = 'deník'
+title = 'Deník ✏️'
 theme = 'ananke'
 canonifyURLs = true
 DefaultContentLanguage = 'cs'
