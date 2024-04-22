@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Česká Kuchyně on Deník ✏️</title>
-    <link>//localhost:1313/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</link>
+    <link>/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</link>
     <description>Recent content in Česká Kuchyně on Deník ✏️</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>cs-cz</language>
     <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vídeňský guláš</title>
-      <link>//localhost:1313/recepty/vidensky-gulas/</link>
+      <link>/recepty/vidensky-gulas/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/recepty/vidensky-gulas/</guid>
+      <guid>/recepty/vidensky-gulas/</guid>
       <description>Guláš považujeme za národní jídlo, ale je pouze důkazem naší historické příslušnosti k Rakousku-Uhersku. Dušené ragú z hovězího masa s paprikou vzniklo až v 17.</description>
     </item>
   </channel>

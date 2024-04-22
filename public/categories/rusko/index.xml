@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rusko on Deník ✏️</title>
-    <link>//localhost:1313/categories/rusko/</link>
+    <link>/categories/rusko/</link>
     <description>Recent content in Rusko on Deník ✏️</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>cs-cz</language>
     <lastBuildDate>Tue, 06 Jun 2023 09:06:39 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/rusko/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/rusko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stroganoff</title>
-      <link>//localhost:1313/recepty/stroga/</link>
+      <link>/recepty/stroga/</link>
       <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
-      <guid>//localhost:1313/recepty/stroga/</guid>
+      <guid>/recepty/stroga/</guid>
       <description>olivový olej, 3 lžíce&#xA;3 cibule na polokolečka&#xA;větší balíček kuřecího masa na jemné nudličky&#xA;curry, kečup, dijonská hořčice</description>
     </item>
   </channel>

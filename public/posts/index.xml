@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>posts on Deník ✏️</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in posts on Deník ✏️</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 22 Apr 2024 08:21:14 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Problém s publikováním</title>
-      <link>//localhost:1313/posts/problem/</link>
-      <pubDate>Mon, 22 Apr 2024 08:21:14 +0200</pubDate>
-      <guid>//localhost:1313/posts/problem/</guid>
-      <description>Lokální stránky jsou ok, ale publikováno na github pages, https://dm277.github.io/denik/, je nějaký rozbitý.&#xA;Musím to spravit.&#xA;#blog</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
