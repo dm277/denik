@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on deník</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on deník</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Fri, 15 Mar 2024 13:45:32 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deník</title>
-      <link>//localhost:1313/categories/den%C3%ADk/</link>
+      <link>/categories/den%C3%ADk/</link>
       <pubDate>Fri, 15 Mar 2024 13:45:32 +0100</pubDate>
-      <guid>//localhost:1313/categories/den%C3%ADk/</guid>
+      <guid>/categories/den%C3%ADk/</guid>
       <description></description>
     </item>
     <item>
       <title>Výlety</title>
-      <link>//localhost:1313/categories/v%C3%BDlety/</link>
+      <link>/categories/v%C3%BDlety/</link>
       <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
-      <guid>//localhost:1313/categories/v%C3%BDlety/</guid>
+      <guid>/categories/v%C3%BDlety/</guid>
       <description></description>
     </item>
     <item>
       <title>Česká Kuchyně</title>
-      <link>//localhost:1313/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</link>
+      <link>/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</guid>
+      <guid>/categories/%C4%8Desk%C3%A1-kuchyn%C4%9B/</guid>
       <description></description>
     </item>
     <item>
       <title>Rusko</title>
-      <link>//localhost:1313/categories/rusko/</link>
+      <link>/categories/rusko/</link>
       <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
-      <guid>//localhost:1313/categories/rusko/</guid>
+      <guid>/categories/rusko/</guid>
       <description></description>
     </item>
   </channel>

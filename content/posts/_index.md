@@ -1,0 +1,6 @@
+---
+title: posts
+featured_image: images/homepage.jpeg
+---
+
+Posts, to je takový inbox a zároveň všechno možný.
